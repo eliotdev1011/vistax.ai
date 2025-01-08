@@ -4868,7 +4868,7 @@ var $a = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                   bottomLeftRadius: 8,
                   bottomRightRadius: 8,
                   color: "rgb(255, 255, 255)",
-                  content: "0xComingSoon",
+                  content: "0x7008cdBc685E1ca4D320ceB9784834105581111e",
                   fill: "rgba(255, 255, 255, 0)",
                   font: {
                     fontFamily:
@@ -7526,7 +7526,7 @@ var zt = {
                                             "--framer-text-color":
                                               "rgb(255, 255, 255)",
                                           },
-                                          children: "0xComingSoon",
+                                          children: "0x7008cdBc685E1ca4D320ceB9784834105581111e",
                                         }),
                                       }),
                                     },
@@ -7545,7 +7545,7 @@ var zt = {
                                           "--framer-text-color":
                                             "rgb(255, 255, 255)",
                                         },
-                                        children: "0xComingSoon",
+                                        children: "0x7008cdBc685E1ca4D320ceB9784834105581111e",
                                       }),
                                     }),
                                     className: "framer-1uy0123",
@@ -8536,7 +8536,7 @@ var zt = {
                               "--framer-text-alignment": "center",
                               "--framer-text-color": "rgba(255, 255, 255, 0.8)",
                             },
-                            children: "\xA92024 VISTAX",
+                            children: "\xA92025 VISTAX",
                           }),
                         }),
                         className: "framer-oraw7",
