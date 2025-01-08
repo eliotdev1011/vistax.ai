@@ -7288,47 +7288,10 @@ var zt = {
                                                 "--framer-text-color":
                                                   "rgb(255, 255, 255)",
                                               },
-                                              children: "Liquidity Pool: 90%",
+                                              children: "Liquidity Pool: 98%",
                                             }),
                                           }),
                                           className: "framer-18pxoic",
-                                          fonts: ["GF;Roboto-300"],
-                                          verticalAlignment: "top",
-                                          withExternalLayout: !0,
-                                        }),
-                                      ],
-                                    }),
-                                  }),
-                                }),
-                                e("div", {
-                                  className: "framer-qst9zg",
-                                  "data-border": !0,
-                                  children: e("div", {
-                                    className: "framer-16wyqsv",
-                                    children: n("div", {
-                                      className: "framer-wfkd66",
-                                      children: [
-                                        e("div", {
-                                          className: "framer-19vyefi",
-                                        }),
-                                        e(f, {
-                                          __fromCanvasComponent: !0,
-                                          children: e(t, {
-                                            children: e("p", {
-                                              style: {
-                                                "--font-selector":
-                                                  "R0Y7Um9ib3RvLTMwMA==",
-                                                "--framer-font-family":
-                                                  '"Roboto", "Roboto Placeholder", sans-serif',
-                                                "--framer-font-size": "21px",
-                                                "--framer-font-weight": "300",
-                                                "--framer-text-color":
-                                                  "rgb(255, 255, 255)",
-                                              },
-                                              children: "Marketing: 5%",
-                                            }),
-                                          }),
-                                          className: "framer-165y8u9",
                                           fonts: ["GF;Roboto-300"],
                                           verticalAlignment: "top",
                                           withExternalLayout: !0,
@@ -7362,7 +7325,7 @@ var zt = {
                                                 "--framer-text-color":
                                                   "rgb(255, 255, 255)",
                                               },
-                                              children: "Team: 5%",
+                                              children: "Team: 2%",
                                             }),
                                           }),
                                           className: "framer-jge3m0",
