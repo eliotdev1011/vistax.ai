@@ -5488,7 +5488,8 @@ var zt = {
                                   }),
                                 }),
                                 e(R, {
-                                  href: "https://app.vistaxai.xyz/",
+                                  href: "https://docs.vistaxai.xyz/
+",
                                   openInNewTab: !1,
                                   children: n("a", {
                                     className: "framer-gqeenb framer-z95135",
