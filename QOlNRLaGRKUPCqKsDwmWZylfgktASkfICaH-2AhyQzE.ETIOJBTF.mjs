@@ -4413,7 +4413,7 @@ var Ga = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                         layoutId: "vCTtwO8KP",
                         children: [
                           e(R, {
-                            href: "https://t.me",
+                            href: "https://t.me/vistax_ai",
                             children: e(i.a, {
                               className: "framer-1hm8kl3 framer-o5epqx",
                               "data-border": !0,
@@ -4445,7 +4445,7 @@ var Ga = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             }),
                           }),
                           e(R, {
-                            href: "https://twitter.com",
+                            href: "https://x.com/vistax_ai",
                             openInNewTab: !0,
                             children: e(i.a, {
                               className: "framer-thk5h5 framer-o5epqx",
@@ -5488,7 +5488,7 @@ var zt = {
                                   }),
                                 }),
                                 e(R, {
-                                  href: "https://staking-vista-x.vercel.app/",
+                                  href: "https://app.vistaxai.xyz/",
                                   openInNewTab: !1,
                                   children: n("a", {
                                     className: "framer-gqeenb framer-z95135",
@@ -8474,7 +8474,7 @@ var zt = {
                           className: "framer-eg5yrq",
                           children: [
                             e(R, {
-                              href: "https://t.me",
+                              href: "https://t.me/vistax_ai",
                               children: e("a", {
                                 className: "framer-1n3ysq6 framer-z95135",
                                 "data-border": !0,
@@ -8493,10 +8493,10 @@ var zt = {
                             e(w, {
                               breakpoint: o,
                               overrides: {
-                                aNwAkBX2Q: { href: "https://twitter.com" },
+                                aNwAkBX2Q: { href: "https://x.com/vistax_ai" },
                               },
                               children: e(R, {
-                                href: "https://twitter.com",
+                                href: "https://x.com/vistax_ai",
                                 openInNewTab: !0,
                                 children: e("a", {
                                   className: "framer-1iy9x0t framer-z95135",
